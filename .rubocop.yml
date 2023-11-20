@@ -1,0 +1,9 @@
+require: 
+- rubocop-rails
+- rubocop-factory_bot
+- rubocop-rspec
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
